@@ -1,0 +1,16 @@
+PODS:
+  - FirstPods (0.1.0)
+
+DEPENDENCIES:
+  - FirstPods (from `../`)
+
+EXTERNAL SOURCES:
+  FirstPods:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FirstPods: 1ff619e1708f51ff5d6ce07260df1fb8ed47aefb
+
+PODFILE CHECKSUM: 1a7e8eb188fceb01ee9bf9bd0b99ee6a544a8ff3
+
+COCOAPODS: 1.2.0
